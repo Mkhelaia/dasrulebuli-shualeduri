@@ -100,16 +100,16 @@ main{
     margin-top: 5px;
     margin-left: 20px;
     font-size: 20px;
-    font-family: 'Roboto', sans-serif;
     color: #000000;
     margin-bottom: 35px;
+    font-size: 20px;
 }
 .kontfont{
-
-    font-size: 20px;
+    ont-size: 20px;
     color: #000000;
     font-family: 'Roboto', sans-serif;
     margin-left: 20px;
+    font-size: 20px;
 }
 .map{
     width: 1354px;
@@ -119,6 +119,8 @@ main{
 }
 .black{
     color: #000000;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
 }
 iframe{
     height: 866px;
